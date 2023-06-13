@@ -1,0 +1,36 @@
+* {
+    margin : 0;
+    padding : 0;
+    box-sizing:  border-box;
+}
+
+.main {
+    height : 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#0080FF ;
+}
+
+.login {
+    width : 360px;
+    height : min-content;
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.login h1 {
+    font-size:36px;
+    margin-bottom:25px ;
+}
+.login form {
+    font-size:20px;
+}
+
+
+
+.login form input[type="submit"] {
+    font-size:20px;
+    margin-top: 15px;
+}

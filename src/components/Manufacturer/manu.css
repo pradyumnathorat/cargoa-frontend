@@ -1,0 +1,14 @@
+.manu {
+    width: 40rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.gap {
+    margin-top: 1rem;
+}
